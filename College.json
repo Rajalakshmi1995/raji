@@ -1,0 +1,39 @@
+{
+Students[
+		{
+		"StudentID":1,
+		"StudentName":"Peter",
+		"StudentCourse": ["JAVA", "Python"],
+		"StudentContact":7585,
+		"StudentLocation":"Munich"
+		},
+		{
+		"StudentID":2,
+		"StudentName":"John",
+		"StudentCourse": ["JAVA", "Testing"],
+		"StudentContact":9999,
+		"StudentLocation":"Berlin"
+		},
+		{
+		"StudentID":3,
+		"StudentName":"Henry",
+		"StudentCourse": ["JAVA", "Selenium"],
+		"StudentContact":8888,
+		"StudentLocation":"Dallas"
+		},
+		{
+		"StudentID":4,
+		"StudentName":"Steve",
+		"StudentCourse": ["Ruby", "Selenium"],
+		"StudentContact":7777,
+		"StudentLocation":"Atlanta"
+		}
+		
+		
+		
+		
+		
+
+
+]
+}
